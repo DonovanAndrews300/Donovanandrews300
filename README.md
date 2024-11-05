@@ -11,7 +11,4 @@ This project is hosted on Render, a platform that simplifies deploying web appli
   - 👯 I’m looking to collaborate on ...(Anything!)
 - 🤔 I’m looking for help with ...(Any projects I'm working on currently)
 - ⚡ Fun facts(I'm a huge coffee nerd, I've practices many different martial arts over the years, and I'm a voracious reader)
-
-  Skills
-Typescript C++ Javascript Python Rust HTML5 React NextJs Gatsby CSS3 Sass Bootstrap Redux Svelte NodeJS Express MongoDB PostgreSQL Heroku
 -->
