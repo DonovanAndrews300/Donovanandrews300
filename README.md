@@ -8,7 +8,7 @@ My projects are hosted on Render, a platform that simplifies deploying web appli
 
 - 🔭 I’m currently working on(Personal Projects or Freelancing)
 - 🌱 I’m currently learning ...(AWS services, cloud-based architecture)
-  - 👯 I’m looking to collaborate on ...(Anything!)
+- 👯 I’m looking to collaborate on ...(Anything!)
 - 🤔 I’m looking for help with ...(Any projects I'm working on currently)
 - ⚡ Fun facts(I'm a huge coffee nerd, I've practices many different martial arts over the years, and I'm a voracious reader)
 -->
